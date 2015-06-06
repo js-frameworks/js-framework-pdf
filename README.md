@@ -12,6 +12,9 @@ http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May201
 
 
 #NodeJS
+Basics + libraries and patterns + Single-page applications using Node.js
+http://book.mixu.net/node/
+
 Mastering Node
 http://visionmedia.github.io/masteringnode/
 
