@@ -3,6 +3,7 @@ Contains list of PDF and Tutorials for different JS Frameworks
 
 #JS The Right Way
 http://jstherightway.org
+
 https://github.com/braziljs/js-the-right-way
 
 #AngularJS
