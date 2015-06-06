@@ -6,3 +6,8 @@ AngularJS in 60 Minutes
 http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf
 
 
+#NodeJS
+Mastering Node
+http://visionmedia.github.io/masteringnode/
+
+
