@@ -19,3 +19,5 @@ Mastering Node
 http://visionmedia.github.io/masteringnode/
 
 
+#Backbone.js
+http://addyosmani.github.io/backbone-fundamentals/
