@@ -21,6 +21,13 @@ http://book.mixu.net/node/
 Mastering Node
 http://visionmedia.github.io/masteringnode/
 
+##Presentations
+#Integrating node.js
+http://fourkitchens.github.io/badcamp-node/
+
+#Welcome to Drupal & Node.js Training
+http://fourkitchens.github.io/train-node/
+
 
 #Backbone.js
 http://addyosmani.github.io/backbone-fundamentals/
