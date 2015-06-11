@@ -9,14 +9,15 @@ http://jstherightway.org
 
 https://github.com/braziljs/js-the-right-way
 
-#AngularJS
+<ul>
+<li>#AngularJS</li>
 [ Built by Google, Angular.js is like a polyfill for the future of HTML ]
 https://angularjs.org/
 AngularJS in 60 Minutes
 http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf
 
 
-#NodeJS
+<li>#NodeJS</li>
 Basics + libraries and patterns + Single-page applications using Node.js
 http://book.mixu.net/node/
 
