@@ -13,25 +13,28 @@ https://github.com/braziljs/js-the-right-way
 <li>#AngularJS</li>
 <p>
 [ Built by Google, Angular.js is like a polyfill for the future of HTML ]
-https://angularjs.org/
-AngularJS in 60 Minutes
-http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf
+</br>https://angularjs.org/
+</br>AngularJS in 60 Minutes
+</br>http://fastandfluid.com/publicdownloads/AngularJSIn60MinutesIsh_DanWahlin_May2013.pdf
 </p>
 
 <li>#NodeJS</li>
 <p>
 Basics + libraries and patterns + Single-page applications using Node.js
 http://book.mixu.net/node/
+</br>
+</br>Mastering Node
+</br>http://visionmedia.github.io/masteringnode/
 
-Mastering Node
-http://visionmedia.github.io/masteringnode/
+</br>##Presentations
+</br>#Integrating node.js
+</br>http://fourkitchens.github.io/badcamp-node/
+</br>http://munich2012.drupal.org/sites/default/files/slides/2012-08-24-drupalcon.pdf
 
-##Presentations
-#Integrating node.js
-http://fourkitchens.github.io/badcamp-node/
+</br>#Welcome to Drupal & Node.js Training
+</br>http://fourkitchens.github.io/train-node/
 
-#Welcome to Drupal & Node.js Training
-http://fourkitchens.github.io/train-node/
+
 </p>
 
 <li>#Backbone.js</li>
